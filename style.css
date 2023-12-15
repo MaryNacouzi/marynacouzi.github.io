@@ -1,0 +1,44 @@
+.flag {
+
+    width: 600px;
+    height: 400px;
+    border:1px solid black;
+    flex-direction: column;
+
+}
+
+.red{
+
+    height:25%;
+    background-color: red;
+
+
+}
+
+.white{
+
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cedar{
+    /* width: 200px;
+    height: 150px; */
+    background-color: green;
+    border-bottom: 150px solid green;
+    border-top: 0;
+    border-right: 75px solid transparent;
+    border-left: 75px solid transparent;
+
+}
+
+.brown{
+
+    width: 40px;
+    height: 50px;
+    background-color: brown;
+}
